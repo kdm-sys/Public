@@ -192,7 +192,6 @@ Assets/TextMesh Pro/
 - 모든 public API에 XML 주석 필수
 
 ## 폴더 구조
-```
 Assets/
 ├── Scripts/
 │   ├── Core/           ← 공용 시스템 (DI, Event, Network, Util)
