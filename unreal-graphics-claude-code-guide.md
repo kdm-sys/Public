@@ -203,7 +203,6 @@ Content/
 - 텍스처 임포트 규칙: Scripts/Editor/TextureImportRules.py
 
 ## 폴더 구조 (Content)
-```
 Content/
 ├── Characters/
 │   ├── Meshes/
