@@ -166,7 +166,6 @@ Plugins/ThirdParty/
 - 소스 컨트롤: Git + Git LFS
 
 ## 모듈 구조
-```
 Source/
 ├── BaseballManager/              ← 메인 게임 모듈
 │   ├── BaseballManager.Build.cs
